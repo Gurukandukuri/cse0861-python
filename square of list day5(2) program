@@ -1,0 +1,7 @@
+def sqare_num(n):
+    result n*n
+num=[4,5,2,9]
+result=map(square_num,nums)
+print("square the element")
+print(list(result))
+    
