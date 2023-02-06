@@ -1,0 +1,4 @@
+n=int(input("enter a number"))
+for i in range(4,n+1,2):
+      n=30
+  print(i)
